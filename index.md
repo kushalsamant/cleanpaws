@@ -1,8 +1,3 @@
----
-layout: default
-title: index.md
-description: Professional pet hygiene and cleaning services
----
 # Clean Paws
 
 If you walk your dog daily, you already know the problem.  
