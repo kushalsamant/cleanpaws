@@ -3,12 +3,6 @@ layout: default
 title: index.md
 description: Professional pet hygiene and cleaning services
 ---
----
-layout: default
-title: Clean Paws – Dog Paw Cleaner
-description: A simple after-walk solution to clean your dog’s paws and keep your home free from mud and dirt.
----
-
 # Clean Paws
 
 If you walk your dog daily, you already know the problem.  
