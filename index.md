@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Clean Paws
+title: index.md
 description: Professional pet hygiene and cleaning services
 ---
 ---
