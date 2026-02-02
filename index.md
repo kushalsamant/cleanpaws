@@ -1,3 +1,9 @@
+---
+layout: default
+title: Clean Paws
+description: Professional pet hygiene and cleaning services
+---
+
 # Clean Paws
 
 If you walk your dog daily, you already know the problem.  
