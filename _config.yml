@@ -4,4 +4,5 @@ description: A simple after-walk solution to clean your dog’s paws and keep yo
 theme: null
 baseurl: "/kushalsamant.github.io"
 url: "https://cleanpaws.kvshvl.in"
-
+show_downloads: true
+google_analytics: G-YRHXZKH038
